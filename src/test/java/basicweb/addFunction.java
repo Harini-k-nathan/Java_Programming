@@ -4,7 +4,7 @@ public class addFunction {
 	
 	int a =10;
 	int b = 20;
-	
+	// add function
 	void sum()
 	{
 		System.out.println(a+b);
