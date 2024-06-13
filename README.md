@@ -1,6 +1,6 @@
 # Java_Programming
 
-<h1>Java Bascis</h1>
+<h1>Java Basics</h1>
 
  ### [YouTube Demonstration](https://www.youtube.com/watch?v=8XTcagpacRg&list=PLvepBxfiuao2qCm6QgUay9LUAehVbGlOb)
 
